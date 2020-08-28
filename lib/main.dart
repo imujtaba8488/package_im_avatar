@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
           ),
           child: Avatar(
             // avatarShape: AvatarShape.square,
-            radius: 100,
+            radius: 150,
           ),
         ),
       ),

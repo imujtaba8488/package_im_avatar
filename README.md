@@ -16,7 +16,7 @@ shape can be set to circular or square.
 A simple to use avatar widget, with support for selecting a new avatar. The avatar
 can be selected from camera or gallery.
 
-![Screenshot](https://github.com/imujtaba8488/package_im_avatar/blob/master/showcase/avatar_01.gif)
+![Screenshot](https://github.com/imujtaba8488/showcase/blob/master/im_avatar/im_avatar_01.gif)
 
 ## Using
 
@@ -32,4 +32,5 @@ BoxShape.circle.
 ## Feedback
 
 For any feedback please file an issue **[here](https://github.com/imujtaba8488/im_avatar/issues).
-** Please **Like** to **support**
+
+Please **Like** to **support**!

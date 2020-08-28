@@ -1,6 +1,9 @@
 name: im_avatar
 description: A simple to use avatar widget, with support for selecting a new avatar. The avatar can be selected from camera or gallery.
 version: 0.1.2+1
+homepage: https://twitter.com/imujtaba8488
+repository: https://github.com/imujtaba8488/package_im_avatar.git
+issue_tracker: https://github.com/imujtaba8488/package_im_avatar/issues
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

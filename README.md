@@ -1,10 +1,10 @@
 # im_avatar
 
 ![Pub Version (including pre-releases)](https://img.shields.io/pub/v/im_avatar?include_prereleases)
-![GitHub issues](https://img.shields.io/github/issues-raw/imujtaba8488/im_avatar)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/imujtaba8488/im_avatar)
-![GitHub last commit](https://img.shields.io/github/last-commit/imujtaba8488/im_avatar)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/imujtaba8488/im_avatar)
+![GitHub issues](https://img.shields.io/github/issues-raw/imujtaba8488/package_im_avatar)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/imujtaba8488/package_im_avatar)
+![GitHub last commit](https://img.shields.io/github/last-commit/imujtaba8488/package_im_avatar)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/imujtaba8488/package_im_avatar)
 
 ## About
 

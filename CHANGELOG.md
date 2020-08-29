@@ -6,6 +6,7 @@
 
 * Code optimization.
 * Documentation improvements.
+* Example updated.
 
 ## 0.1.2
 

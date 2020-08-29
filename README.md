@@ -25,6 +25,6 @@ __Tips:__
 
 ## Feedback
 
-For any feedback please file an issue **[here](https://github.com/imujtaba8488/im_avatar/issues).**
+For any feedback please file an issue **[here](https://github.com/imujtaba8488/package_im_avatar/issues).**
 
 Please **Like** to **support**!

@@ -1,6 +1,6 @@
 # ChangeLog
 
-## 0.1.2+1
+## 0.1.2+2
 
 ### Saturday, 29th August, 2020
 
@@ -8,7 +8,7 @@
 * Documentation improvements.
 * Example updated.
 
-## 0.1.2
+## 0.1.2+1
 
 ### Saturday, 10th July, 2020
 

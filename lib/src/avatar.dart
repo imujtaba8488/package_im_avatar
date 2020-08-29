@@ -53,7 +53,7 @@ class Avatar extends StatefulWidget {
         networkPath != null && localPath == null ||
             networkPath == null && localPath != null ||
             networkPath == null && localPath == null,
-        'Only one of the paths i.e networkPath and localPath can be specified');
+        'Only one of the paths i.e networkPath or localPath can be specified');
   }
 
   @override
@@ -87,7 +87,7 @@ class _AvatarState extends State<Avatar> with SingleTickerProviderStateMixin {
     _pictureSource = PictureSource.gallery;
 
     //* MUST CHANGE TO 'TRUE' IN PACKAGE. FOR TESTING IN THIS PROJECT SET IT TO 'FALSE'.
-    _usePackageDefaultImage = false;
+    _usePackageDefaultImage = true;
 
     _animationController = AnimationController(
       vsync: this,

@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'customized_dialog.dart';
 
+/// Callback fired when a picture / image source is selected.
 typedef SelectedPictureSource = void Function(PictureSource);
 
+// A widget which displays only two options i.e. Camera and Gallery for selection purpose.
 class ImageSourceSelector extends StatelessWidget {
   final SelectedPictureSource selectedPictureSource;
 
@@ -50,7 +52,11 @@ class ImageSourceSelector extends StatelessWidget {
   }
 }
 
+/// Defines the two possible values of selection.
 enum PictureSource {
+  /// Whether to select from camera.
   camera,
+
+  /// Whether to select from gallery.
   gallery,
 }

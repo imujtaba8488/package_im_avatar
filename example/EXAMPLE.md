@@ -1,9 +1,11 @@
+# Examples
+
+```dart
 import 'dart:io';
 
 import 'package:flutter/material.dart';
 
 import 'package:im_avatar/im_avatar.dart';
-import 'package:im_avatar/src/avatar.dart';
 
 main() => MyApp();
 
@@ -43,3 +45,4 @@ class _HomepageState extends State<Homepage> {
     );
   }
 }
+```

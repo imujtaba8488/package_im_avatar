@@ -1,12 +1,18 @@
 # ChangeLog
 
+## 0.1.2+1
+
+### Saturday, 29th August, 2020
+
+* Code optimization.
+* Documentation improvements.
+
 ## 0.1.2
 
 ### Saturday, 10th July, 2020
 
 * Added the option to change the __shape__ of avatar to square and circular.
-* Added __animation__ when setting a new image with option to set the loading
-animation and disabling the loading animation altogether.
+* Added __animation__ when setting a new image with option to set the loading animation and disabling the loading animation altogether.
 * Documentation update.
 
 ## 0.1.1

@@ -8,26 +8,20 @@
 
 ## About
 
-A simple to use avatar widget, with support for selecting a new avatar. The avatar
-shape can be set to circular or square.
+A simple to use avatar widget, with support for selecting a new avatar. The avatar shape can be set to circular or square.
 
 ![Screenshot](https://github.com/imujtaba8488/showcase/blob/master/im_avatar/im_avatar_01.gif)
 
-## Using
+## Usage Notes
 
-Simply import package: `im_avatar/avatar.dart`. Use the avatar wherever required
-with support for selecting a new avatar or disable selection of specifying a new
-avatar.
+Simply import package: `im_avatar/avatar.dart`. Use the avatar wherever required with support for selecting a new avatar or disable selection of specifying a new avatar.
 
 __Tips:__
 
-* In case you wish to add a border, boxShadow, etc. to the avatar, simply
-wrap the Avatar widget within a `Container` and add the border under `decoration`.
-For circular border, also set the `boxShape` of the encompassing container to
+* In case you wish to add a border, boxShadow, etc. to the avatar, simply wrap the Avatar widget within a `Container` and add the border under `decoration`. For circular border, also set the `boxShape` of the encompassing container to
 `BoxShape.circle`.
 
-* Use im_animation [im_animations](https://pub.dev/packages/im_animations) package
-to wrap the avatar in cool animation effects.
+* Use [im_animations](https://pub.dev/packages/im_animations) package to wrap the avatar in cool animation effects.
 
 ## Feedback
 

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:im_avatar/src/avatar.dart';
+
+import 'package:im_avatar/im_avatar.dart';
 
 void main() {
   runApp(MyApp());

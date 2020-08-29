@@ -14,7 +14,7 @@ A simple to use avatar widget, with support for selecting a new avatar. The avat
 
 ## Usage Notes
 
-Simply import package: `im_avatar/avatar.dart`. Use the avatar wherever required with support for selecting a new avatar or disable selection of specifying a new avatar.
+Simply import package: `im_avatar/im_avatar.dart`. Use the avatar wherever required with support for selecting a new avatar or disable selection of specifying a new avatar.
 
 __Tips:__
 
